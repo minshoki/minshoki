@@ -1,6 +1,6 @@
 ### 안녕하세요 👋
 
-9년차 안드로이드 개발자입니다. (feat. 고기, 캠핑)
+<!-- 9년차 안드로이드 개발자입니다. (feat. 고기, 캠핑)
 
 디자이너, 개발자, 기획자 분들과 직접 소통하며 일 하는 것에 대해 재미를 느끼고 열심히 하려고 노력하는 개발자입니다 :)
 
@@ -8,7 +8,7 @@
 
 (고기 좋아하고, 잘 굽습니다. 집게만 주세요)
 
-<img src="https://img.shields.io/badge/-coroutine-green?style=flat"/>
+<img src="https://img.shields.io/badge/-coroutine-green?style=flat"/> -->
 
 <!--
 **minshoki/minshoki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
